@@ -1,0 +1,26 @@
+body {
+    background-color:#fff;
+    }
+hr {
+    width: 4%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: #F9F9C5;
+    
+} 
+h1, h3 {
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-style: none none none;
+}
+p, tr{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: none none none;
+    text-align: center;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
